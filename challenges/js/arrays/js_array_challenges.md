@@ -7,6 +7,7 @@
 Write a function `sumArray` that takes an array of numbers as input and returns the sum of all the elements in the array.
 
 ```javascript
+// parameter numbers is an array of numbers. ex: numbers = [1,2,3,4]
 function sumArray(numbers) {
   // Your code here
 }
@@ -22,6 +23,7 @@ console.log(sumArray([10, -10, 10, -10])); // Output: 0
 Write a function `findMax` that takes an array of numbers as input and returns the maximum element in the array.
 
 ```javascript
+// parameter numbers is an array of numbers. ex: numbers = [1,2,3,4]
 function findMax(numbers) {
   // Your code here
 }
@@ -37,6 +39,7 @@ console.log(findMax([-10, -20, -30, -1])); // Output: -1
 Write a function `removeDuplicates` that takes an array as input and returns a new array with all duplicate elements removed.
 
 ```javascript
+// parameter numbers is an array of numbers. ex: numbers = [1,2,3,4]
 function removeDuplicates(arr) {
   // Your code here
 }
@@ -52,6 +55,7 @@ console.log(removeDuplicates(['a', 'b', 'a', 'c', 'b'])); // Output: ['a', 'b', 
 Write a function `flattenArray` that takes a nested array (array of arrays) as input and returns a new array with all the elements flattened to a single level.
 
 ```javascript
+// parameter numbers is an array of numbers. ex: numbers = [1,2,3,4]
 function flattenArray(nestedArray) {
   // Your code here
 }
@@ -67,6 +71,7 @@ console.log(flattenArray([['a', 'b'], ['c', ['d', 'e']], 'f'])); // Output: ['a'
 Write a function `groupByFrequency` that takes an array as input and returns an object where the keys are the elements and the values are the number of times each element appears in the array.
 
 ```javascript
+// parameter numbers is an array of numbers. ex: numbers = [1,2,3,4]
 function groupByFrequency(arr) {
   // Your code here
 }
