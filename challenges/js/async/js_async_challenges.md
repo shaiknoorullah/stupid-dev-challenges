@@ -1,5 +1,28 @@
 # JavaScript Async Challenges
 
+## Theoretical Questions
+
+### 1. What are JavaScript Promises and how do they work?
+
+Describe what JavaScript Promises are, how they work, and how they are used to manage asynchronous operations.
+
+### 2. What is the difference between synchronous and asynchronous code in JavaScript?
+
+Explain the difference between synchronous and asynchronous code execution in JavaScript, including the impact on performance and user experience.
+
+### 3. What is the difference between async/await, try-catch, promises, and callbacks?
+
+Explain the differences between `async/await`, `try-catch`, promises, and callbacks in JavaScript, including how they are used for handling asynchronous operations and error handling.
+
+### 4. How do functions behave differently in ES6+ compared to ES5?
+
+Describe the differences in function behavior between ES6+ and ES5, including syntax differences such as arrow functions, default parameters, and the use of `this`.
+
+### 5. What is the event loop and how does it work?
+
+Explain the concept of the event loop in JavaScript, detailing how it handles asynchronous operations and the execution of code in a non-blocking manner.
+
+
 ## Challenge 1: Fetch Data from an API
 **Difficulty**: Beginner
 
